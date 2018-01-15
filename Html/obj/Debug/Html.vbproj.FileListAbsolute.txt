@@ -1,0 +1,16 @@
+C:\Workspaces\Html\Html\bin\Debug\Html.exe.config
+C:\Workspaces\Html\Html\bin\Debug\Html.exe
+C:\Workspaces\Html\Html\bin\Debug\Html.pdb
+C:\Workspaces\Html\Html\bin\Debug\Html.xml
+C:\Workspaces\Html\Html\bin\Debug\HtmlAgilityPack.dll
+C:\Workspaces\Html\Html\bin\Debug\HtmlAgilityPack.pdb
+C:\Workspaces\Html\Html\bin\Debug\HtmlAgilityPack.xml
+C:\Workspaces\Html\Html\obj\Debug\Html.vbprojResolveAssemblyReference.cache
+C:\Workspaces\Html\Html\obj\Debug\Html.Html.resources
+C:\Workspaces\Html\Html\obj\Debug\Html.Resources.resources
+C:\Workspaces\Html\Html\obj\Debug\Html.vbproj.GenerateResource.Cache
+C:\Workspaces\Html\Html\obj\Debug\Html.exe
+C:\Workspaces\Html\Html\obj\Debug\Html.xml
+C:\Workspaces\Html\Html\obj\Debug\Html.pdb
+C:\Workspaces\Html\Html\bin\Debug\Database1.mdf
+C:\Workspaces\Html\Html\bin\Debug\Database1_log.ldf
